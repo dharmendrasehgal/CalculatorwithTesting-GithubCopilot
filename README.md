@@ -2,6 +2,9 @@
 
 A clean, modern calculator built with HTML, CSS, and JavaScript.
 
+## Demo
+https://dharmendrasehgal.github.io/CalculatorwithTesting-GithubCopilot/
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
